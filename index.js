@@ -25,6 +25,7 @@ function revisarResultado() {
         muñecoImg.style.display = "block";
         noTextoTitulo.style.display = "block";
         noTextoParrafo.style.display = "block";
+        
     } else {
         resultado.style.display = "block";
         copiarBtn.style.display = "block";
